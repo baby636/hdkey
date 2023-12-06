@@ -27,9 +27,9 @@
     "coveralls": "^3.0.4",
     "ecurve": "^1.0.0",
     "istanbul": "^0.4.5",
-    "mocha": "^6.1.4",
+    "mocha": "^8.3.0",
     "mocha-lcov-reporter": "0.0.1",
-    "mochify": "^6.3.0",
+    "mochify": "^8.0.0",
     "secure-random": "^1.0.0",
     "standard": "^7.1.1"
   },
